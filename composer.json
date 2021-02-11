@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-et_ee",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "magento2-language",
     "description": "et_EE language package.",
     "license": [
